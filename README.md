@@ -1,25 +1,30 @@
 ♥ Amigo Secreto ♥
  
 ♥ ¿Qué es esto?
+
 "Amigo Secreto" es una aplicación web sencilla pero útil para hacer sorteos de amigo secreto entre tus amigos. Solo agregas los nombres de los participantes, presionas un botón y ¡boom! Se hace el sorteo al azar.
 
 ♥ Funcionalidades
+
 - Agregar nombres a la lista.
 - Evita nombres vacíos, duplicados o que sean solo números.
 - Hace un sorteo aleatorio y muestra quién es el amigo secreto.
 
 ♥ ¿Cómo usarlo?
+
 1. Descarga o clona este repositorio.
 2. Abre `index.html` en tu navegador.
 3. Escribe los nombres de los participantes y agrégalos con el botón "Añadir".
 4. Cuando todos los nombres estén listos, presiona "Sortear amigo" para ver el resultado.
 
 ♥ Archivos principales
+
 - `index.html`: La estructura del sitio.
 - `styles.css`: El diseño y estilos.
 - `app.js`: La magia detrás del sorteo.
 
 ♥ ¿Cómo está hecho el `index.html`?
+
 - **Encabezado:** Contiene el título "Amigo Secreto" y una imagen decorativa.
 - **Sección de entrada:**
   - Un campo de texto (`input`) para escribir nombres.
@@ -30,13 +35,10 @@
 - **Botón de sorteo:** Se encarga de hacer la elección aleatoria.
 
 ♥ ¿Qué hace el `app.js`?
+
 - **`agregarAmigo()`**: Valida y agrega nombres a la lista.
 - **`actualizarListaAmigos()`**: Muestra los nombres en pantalla.
 - **`sortearAmigo()`**: Hace el sorteo y muestra el resultado.
-
-♥ Requisitos
-- Un navegador web actualizado.
-- JavaScript activado.
 
 ♥ Screenshots de su funcionamiento
 
@@ -55,5 +57,6 @@
 
 
 ♥ Autor
+
 - Bárbara Morel
 
