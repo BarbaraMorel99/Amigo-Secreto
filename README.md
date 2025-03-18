@@ -38,7 +38,7 @@
 - Un navegador web actualizado.
 - JavaScript activado.
 
-♥ Screenshots
+♥ Screenshots de su funcionamiento
 
 
 ![image](https://github.com/user-attachments/assets/730486b2-4776-413a-bbd9-26d966fbb1eb)
@@ -53,7 +53,6 @@
 
 ![image](https://github.com/user-attachments/assets/babda678-4a95-4e6d-9cd4-1904120a3892)
 
-(Aquí puedes añadir imágenes del proyecto en acción)
 
 ♥ Autor
 - Bárbara Morel
